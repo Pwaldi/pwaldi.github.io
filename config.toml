@@ -1,0 +1,5 @@
+baseURL = 'https://pwaldi.github.io'
+languageCode = 'en-us'
+title = 'Pwaldi´s Page'
+theme = 'mini'
+
